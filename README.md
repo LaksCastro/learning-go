@@ -27,12 +27,11 @@
 ### <samp>💻 Programming</samp>
 ```
 - I can build some cool stuff with...
-1. Javascript
+1. Dart
 2. Typescript
-3. Dart
-4. C++
-5. Java
-6. Kotlin
+3. C++
+4. Java
+5. Kotlin
 ```
 ```
 - I only know 'Hello World'...
