@@ -7,7 +7,7 @@
   </blockquote>
 </samp>
 
-<img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=lakscastro&show_icons=true&bg_color=00000000&title_color=036399&icon_color=036399&text_color=036399" />
+<img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=lakscastro&show_icons=true&bg_color=00000000&title_color=F9573A&icon_color=F9573A&text_color=F9573A" />
 
 ### <samp>✨ Contact</samp>
 - <samp>Discord `Laks#6909`</samp>
