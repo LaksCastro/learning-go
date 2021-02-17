@@ -11,7 +11,7 @@
 <img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=lakscastro&show_icons=true&bg_color=00000000&title_color=7F7F7F&icon_color=7F7F7F&text_color=7F7F7F" />
 
 ### <samp>✨ Contact</samp>
-- <samp>Discord `Laks#6906`</samp>
+- <samp>Discord `Laks#1618`</samp>
 
 ### <samp>⚡ Useless data</samp>
 ```dart
