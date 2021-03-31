@@ -11,10 +11,16 @@
 <img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=lakscastro&show_icons=true&bg_color=00000000&title_color=7F7F7F&icon_color=7F7F7F&text_color=7F7F7F" />
 
 ### <samp>🍪 Contact</samp>
-- <samp>Discord `Laks#1618`</samp>
+| <samp>Social media | <samp>Link                                                                                                 |
+|--------------|------------------------------------------------------------------------------------------------------|
+| <samp>Github       | <samp>[@LaksCastro](https://github.com/LaksCastro)</samp>                                                         |
+| <samp>Workana      | <samp>[Laks Castro](https://www.workana.com/freelancer/80b3d81eb99245381c7320dedc76f0b8?ref=user_dropdown)</samp> |
+| <samp>Website      | <samp>[Available here](https://lakscastro.github.io/)</samp>                                                      |
+| <samp>Discord      | <samp>[Laks#1618]( https://discordapp.com/users/811690461038903347/)</samp>                                       |
+| <samp>Linkedin     | <samp>[@lakscastro](https://www.linkedin.com/in/lakscastro/)</samp>                                               |
 
 ### <samp>🔮 Useless data</samp>
-```dart
+```
 1. [ ] Coffe    [ ] Tea    [x] Chocolate         
 2. [x] Rain     [ ] Sun    [ ] Snow              
 3. [ ] Day      [x] Night  [ ] Afternoon          
