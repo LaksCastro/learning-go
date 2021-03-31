@@ -22,9 +22,13 @@
 ### <samp>🔮 Useless data...</samp>
 ```
 1. [ ] Coffe    [ ] Tea    [x] Chocolate         
-2. [x] Rain     [ ] Sun    [ ] Snow              
-3. [ ] Day      [x] Night  [ ] Afternoon          
-4. [ ] Macbook  [x] PC     [ ] Notebook             
+
+2. [x] Rain     [ ] Sun    [ ] Snow            
+   
+3. [ ] Day      [x] Night  [ ] Afternoon        
+   
+4. [ ] Macbook  [x] PC     [ ] Notebook       
+       
 5. [x] S;G      [x] FMA    [x] Fate              
 ```
 
