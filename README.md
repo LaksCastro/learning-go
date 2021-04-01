@@ -11,13 +11,15 @@
 <img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=lakscastro&show_icons=true&bg_color=00000000&title_color=7F7F7F&icon_color=7F7F7F&text_color=7F7F7F" />
 
 ### <samp>🍪 You can find me at...</samp>
-| <samp>Social media | <samp>Link                                                                                                 |
+| <samp>Social media | <samp>Link</samp>                                                                                                 |
 |--------------|------------------------------------------------------------------------------------------------------|
-| <samp>Github       | <samp>[@LaksCastro](https://github.com/LaksCastro)</samp>                                                         |
-| <samp>Workana      | <samp>[Laks Castro](https://www.workana.com/freelancer/80b3d81eb99245381c7320dedc76f0b8?ref=user_dropdown)</samp> |
-| <samp>Website      | <samp>[Available here](https://lakscastro.github.io/)</samp>                                                      |
-| <samp>Discord      | <samp>[Laks#1618]( https://discordapp.com/users/811690461038903347/)</samp>                                       |
-| <samp>Linkedin     | <samp>[@lakscastro](https://www.linkedin.com/in/lakscastro/)</samp>                                               |
+| <samp>Github</samp>       | <samp>[@LaksCastro](https://github.com/LaksCastro)</samp>                                                         |
+| <samp>Workana</samp>      | <samp>[Laks Castro](https://www.workana.com/freelancer/80b3d81eb99245381c7320dedc76f0b8?ref=user_dropdown)</samp> |
+| <samp>Website</samp>      | <samp>[Available here](https://lakscastro.github.io/)</samp>                                                      |
+| <samp>Discord</samp>      | <samp>[Laks#1618]( https://discordapp.com/users/811690461038903347/)</samp>                                       |
+| <samp>Linkedin</samp>     | <samp>[@lakscastro](https://www.linkedin.com/in/lakscastro/)</samp>                                               |
+| <samp>Google Play</samp>  | <samp>[@lakscastro](https://play.google.com/store/apps/dev?id=6898322761313267929/)</samp>                                               |
+  
 
 ### <samp>🔮 Useless data...</samp>
 ```
