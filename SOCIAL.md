@@ -7,3 +7,6 @@
 | <samp>Discord</samp>      | <samp>[Laks#1618]( https://discordapp.com/users/811690461038903347/)</samp>                                       |
 | <samp>Linkedin</samp>     | <samp>[@lakscastro](https://www.linkedin.com/in/lakscastro/)</samp>                                               |
 | <samp>Google Play</samp>  | <samp>[Laks Castro](https://play.google.com/store/apps/dev?id=6898322761313267929)</samp>                                               |
+| <samp>Hacker Rank</samp>  | <samp>[@LaksCastro](https://www.hackerrank.com/LaksCastro)</samp>                                               |
+
+  
