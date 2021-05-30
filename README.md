@@ -32,4 +32,4 @@
 
 <br>
 
-<sup><samp><i>Tudo depende do quão bem você usa seu tempo, aprenda com o que já aconteceu <sup>💖</sup></i></samp></sup>
+<sup><samp><i>Tudo depende do quão bem você usa seu tempo, aprenda com o que já aconteceu <sup>🕒</sup></i></samp></sup>
