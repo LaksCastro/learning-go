@@ -27,7 +27,7 @@
   
 ### <samp>♟️ Also, I like...</samp>
 - <samp>Create & Edit pictures using [Krita.](https://krita.org/en/)</samp>
-- <samp>Create & Listen Synth/Electronic [songs like these.](https://www.youtube.com/watch?v=kgBcg4uBd9Q&ab_channel=NightrideFM)</samp>
+- <samp>Create & Listen Synth/Electronic [songs like these.](https://www.youtube.com/watch?v=rc1z0yREyUA&list=OLAK5uy_ltj_wwwBpvR71PSKhofEtbIMpA48ak3hw&index=2&ab_channel=Home-TopicHome-Topic)</samp>
 - <samp>Animes, SCI-FI Series and Chess.</samp>
 - <samp>Best Waifus: [Senjouhara,](https://www.youtube.com/watch?v=EwggoreDBZc&ab_channel=AndyTurnerAndyTurner) [Kurisutina.](https://www.youtube.com/watch?v=a-GqSWsISVs&ab_channel=FootBallHead)</samp>
 
