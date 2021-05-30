@@ -16,7 +16,7 @@
 <samp><sup><code>🖥️ Back-end (60%)</code></sup></samp>
 
 ### <samp>🗺️ Roadmap...</samp>
-- <a href="/AVAILABILITY.md"><samp>Current work availability <sup>`Employed but open to opportunities 🟡`</sup></samp></a>
+- <a href="/AVAILABILITY.md"><samp>Current work availability... <sup>`Employed but open to opportunities 🟡`</sup></samp></a>
 - <a href="/SOCIAL.md"><samp>You can find me at...</samp></a>
   
 ### <samp>🎮 Full time hobbies...</samp>
