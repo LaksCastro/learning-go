@@ -1,19 +1,19 @@
 <h3><samp>🌿 Laks Castro</h3></samp>
 
-<h5>
+<samp>
+  <sup>
+    <code>🍃 Mobile Developer (1y)</code>
+    <code>🍂 Web Developer (3y)</code>
+    <br>
+    <code>🔵 Dart & Flutter (1y)</code>
+    <code>🟠 Javascript (3y)</code>
+    <code>🔴 ReactJS (2y)</code>
+    <code>🟢 NodeJS (2y)</code>
+  </sup>
+</samp>
   
-<samp><sup><code>🍃 Mobile Developer (1y)</code></sup></samp>
-<samp><sup><code>🍂 Web Developer (3y)</code></sup></samp>
-<br>
-<samp><sup><code>🔵 Dart & Flutter (1y)</code></sup></samp>
-<samp><sup><code>🟠 Javascript (3y)</code></sup></samp>
-<samp><sup><code>🔴 ReactJS (2y)</code></sup></samp>
-<samp><sup><code>🟢 NodeJS (2y)</code></sup></samp>
-<br>
-<samp><sup><code>🎨 Front-end & Mobile (90%)</code></sup></samp>
+<samp><sup><code>🎨 Front-end & Mobile (90%)</code></sup>
 <samp><sup><code>🖥️ Back-end (60%)</code></sup></samp>
-
-</h5>
 
 ### <samp>🗺️ Roadmap...</samp>
 - <a href="/AVAILABILITY.md"><samp>Current work availability <sup>`Employed but open to opportunities 🟡`</sup></samp></a>
