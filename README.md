@@ -37,4 +37,4 @@
 
 <br>
 
-<sup><samp><i>Upe bastante a skill de gerenciamento de tempo e disciplina <sup>🕒</sup></i></samp></sup>
+<sup><samp>Invista em tempo e disciplina <sup>🕒</sup></samp></sup>
