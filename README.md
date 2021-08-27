@@ -55,7 +55,7 @@ Hi! I'm developer who loves:
 
 <kbd>
   
-  <sub>ESC⠀⠀</sub>
+  <sub>ESC⠀</sub>
   
 </kbd>
 ⠀⠀
